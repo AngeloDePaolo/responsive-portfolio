@@ -171,7 +171,6 @@ textarea {
     font-size: 24px;
     padding-top: 10px;
     padding-bottom: 10px;
-    transition: all 0.3s;
     font-weight:700;
 }
 [type="submit"]:hover { border:2px solid #4aaaa5; border-radius:5px; color: #4aaaa5; background: #ffffff; }
